@@ -1,0 +1,27 @@
+# Binary/Cache files
+## Rust
+target/
+
+## C/C++
+out
+
+## Python
+__pycache__/
+venv/
+
+## JavaScript (Node.js)
+node_modules/
+
+## Java
+*.class
+
+## C#
+bin/
+obj/
+
+# Kdevelop files
+*.kdev4
+.kdev4
+
+
+
